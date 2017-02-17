@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Palette</string>
+    <string name="darkVibrantSwatch">DarkVibrantSwatch</string>
+    <string name="vibrantSwatch">VibrantSwatch</string>
+    <string name="lightVibrantSwatch">LightVibrantSwatch</string>
+    <string name="darkMutedSwatch">DarkMutedSwatch</string>
+    <string name="mutedSwatch">MutedSwatch</string>
+    <string name="lightMutedSwatch">LightMutedSwatch</string>
+</resources>
